@@ -1,0 +1,1 @@
+web: gunicorn gustavo_cafe.wsgi --log-file -
