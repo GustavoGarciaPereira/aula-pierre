@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['aula-pierre.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['potifolio-cafe.herokuapp.com','127.0.0.1']
 
 
 # Application definition
